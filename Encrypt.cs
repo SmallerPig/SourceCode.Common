@@ -5,7 +5,7 @@ using System.IO;
 using System.Configuration;
 
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// 通用加密/解密类。

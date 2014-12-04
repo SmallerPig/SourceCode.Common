@@ -4,7 +4,7 @@ using System.Text;
 using System.Web;
 using System.Collections.Specialized;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// Cookie操作类

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Security;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class FormAuthService
     {

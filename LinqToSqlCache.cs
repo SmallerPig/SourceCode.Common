@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.Web.Caching;
 
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public static class LinqToSqlCache
     {

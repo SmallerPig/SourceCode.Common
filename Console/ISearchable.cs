@@ -5,8 +5,8 @@ using System.Text;
 
 namespace WXSSK.Common.Console
 {
-    public interface IDeleteable
+    public interface ISearchable
     {
-        bool Status { get; set; }
+        IEnumerable<ConsoleEntity> Search(string keyword);
     }
 }

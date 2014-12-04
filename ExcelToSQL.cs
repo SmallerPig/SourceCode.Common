@@ -8,7 +8,7 @@ using System.Data;
 using System.Collections;
 using System.Web;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class ExcelToSQL
     {

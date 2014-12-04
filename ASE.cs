@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public static class ASE
     {

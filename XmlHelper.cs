@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Xml;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class XmlHelper
     {

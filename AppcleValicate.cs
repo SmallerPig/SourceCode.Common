@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Web.Script.Serialization;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class AppcleValicate
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public  class SendEmail
     {
@@ -60,7 +60,7 @@ namespace WUXI.SourceCode.Common
             //设置为HTML格式
             message.IsBodyHtml = true;
             //优先级
-            message.Priority = MailPriority.High;
+            message.Priority = MailPriority.Normal;
             //事件注册
             mailclient.SendCompleted += (s1, e1) =>
             {

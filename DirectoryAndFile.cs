@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public static class DirectoryAndFile
     {

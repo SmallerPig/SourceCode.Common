@@ -7,7 +7,7 @@ using System.Net;
 using System.Configuration;
 using System.Web;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class Utils
     {

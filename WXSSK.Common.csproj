@@ -7,8 +7,8 @@
     <ProjectGuid>{26C68490-5EAA-487A-A298-C8434843C317}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WUXI.SourceCode.Common</RootNamespace>
-    <AssemblyName>WUXI.SourceCode.Common</AssemblyName>
+    <RootNamespace>WXSSK.Common</RootNamespace>
+    <AssemblyName>WXSSK.Common</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -51,9 +51,11 @@
     <Compile Include="AppcleValicate.cs" />
     <Compile Include="ASE.cs" />
     <Compile Include="CacheHelper.cs" />
+    <Compile Include="Console\BLLClass.cs" />
     <Compile Include="Console\ConsoleEntity.cs" />
     <Compile Include="Console\IDeleteable.cs" />
     <Compile Include="Console\IIndexable.cs" />
+    <Compile Include="Console\ISearchable.cs" />
     <Compile Include="CookiesHelp.cs" />
     <Compile Include="DirectoryAndFile.cs" />
     <Compile Include="DirFile.cs" />

@@ -11,7 +11,7 @@ using System.Text;
 using System.Web;
 using System.Web.Caching;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// 提供缓存的实现

@@ -10,7 +10,7 @@ using System.Xml;
 *时间：2013/9/22 17:44:56
 *版权所有:无锡睿阅数字科技有限公司
 ============================================================*/
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     public class ZipEdit
     {

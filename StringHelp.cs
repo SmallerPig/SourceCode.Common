@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// 字符串操作类

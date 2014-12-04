@@ -19,7 +19,7 @@ using System.IO.Compression;
 using System.Security.Cryptography.X509Certificates;
 using System.Net.Security;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// Http连接操作帮助类

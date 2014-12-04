@@ -2,7 +2,7 @@
 using System.IO;
 using System.Web;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// 目录及文件操作

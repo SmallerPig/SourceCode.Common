@@ -5,7 +5,7 @@ using System.Web;
 using System.IO;
 using System.Net;
 
-namespace WUXI.SourceCode.Common
+namespace WXSSK.Common
 {
     /// <summary>
     /// 和IP有关的类
