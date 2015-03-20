@@ -67,7 +67,9 @@
     <Compile Include="Console\IConsoleList.cs" />
     <Compile Include="ImageHelp.cs" />
     <Compile Include="IPHelp.cs" />
+    <Compile Include="JsonHelp.cs" />
     <Compile Include="LinqToSqlCache.cs" />
+    <Compile Include="PredicateBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecordHack.cs" />
     <Compile Include="SendEmail.cs" />
